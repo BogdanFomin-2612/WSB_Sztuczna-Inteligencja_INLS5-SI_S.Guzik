@@ -1,1 +1,15 @@
-# WSB_Sztuczna-Inteligencja_INLS5-SI_S.Guzik
+# Artificial Intelligence (Sztuczna Inteligencja)
+
+This repository contains my practical assignments, lab works, and the final project developed for the **Artificial Intelligence** course.
+
+---
+
+## Repository Structure
+
+```text
+├── labs/               # Weekly laboratory assignments and practical tasks
+│   ├── lab_01/
+│   └── ...
+├── final_project/      # Final course project implementation
+├── assets/             # Datasets, images, or evaluation plots
+└── requirements.txt    # Python dependencies
