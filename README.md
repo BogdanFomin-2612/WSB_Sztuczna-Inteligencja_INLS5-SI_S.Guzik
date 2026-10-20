@@ -1,0 +1,1 @@
+# WSB_Sztuczna-Inteligencja_INLS5-SI_S.Guzik
