@@ -1,7 +1,7 @@
 # Artificial Intelligence (Sztuczna Inteligencja)
 
 This repository contains my practical assignments, lab works, and the final project developed for the **Artificial Intelligence** course.
-
+## LINK DO YOUTUBE - https://youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL&si=GroUbkkCFDjsqrPE
 ---
 
 ## Repository Structure
