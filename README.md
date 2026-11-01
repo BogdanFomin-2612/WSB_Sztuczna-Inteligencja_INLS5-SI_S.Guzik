@@ -4,6 +4,7 @@ This repository contains my practical assignments, lab works, and the final proj
 ## LINK DO YOUTUBE - https://youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL&si=GroUbkkCFDjsqrPE
 
 ## LINK DO COOLAB - https://colab.research.google.com/drive/1vo5fYb9-KILKUeL_jB_vMcdHzQeEa9AT?usp=sharing
+(miałem problem z Kaggle, dlatego zrobiłem za pomocą zbioru Microsoft'a)
 ---
 
 # Projekt zaliczeniowy
